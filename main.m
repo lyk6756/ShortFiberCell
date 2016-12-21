@@ -25,7 +25,8 @@ fiber_Num = 50;
 C = zeros(fiber_Num,3);
 W = zeros(fiber_Num,3);
 
-%% Genarate 
+%% Genarate
+rng('shuffle');
 n = 1;
 c = [rand*cell_L, rand*cell_W, rand*cell_H]; % random position of centroid
 u = rand; v = rand;
