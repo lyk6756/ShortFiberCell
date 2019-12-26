@@ -21,3 +21,6 @@ Generate uniformly distributed short cylinders(fibers) in a cubic cell, insuring
 * [Wilson H B, Turcotte L H, Halpern D. Advanced mathematics and mechanics applications using MATLAB[M]. CRC Press, 2003.]((http://www.ee.hacettepe.edu.tr/~solen/Matlab/MatLab/Matlab%20-%20Advanced%20Mathematics%20and%20Mechanics%20Applications%20Using%20MATLAB,%203rd%20Edition.pdf))
 
 这本书中的第13章“Nonlinear Optimization Applications”中的13.6小节“Determining the Closest Points on Two Surfaces”给出了判断圆柱体是否重合的另一方法：计算两个空间曲面之间的最近点。相关的MATLAB代码也能够在书中一并找到。
+
+# 空间中两直线位置判断方法
+http://blog.sina.com.cn/s/blog_a401a1ea0101ij9z.html
