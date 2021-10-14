@@ -11,7 +11,7 @@ Generate uniformly distributed short cylinders(fibers) in a cubic cell, insuring
 
 ---
 
-# 矩形平板振动
+# 矩形平板
 
 在矩形空间内生成均匀分布的圆柱体短纤维，同时保证各个圆柱体之间不会相互重合。
 
